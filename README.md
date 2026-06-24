@@ -16,9 +16,9 @@
 
 I am a final-year **Computer Science (CSIT)** student at **SIRT Bhopal** with a passion for building full-stack web applications and solving complex algorithmic challenges. With hands-on experience through **3 internships** and a **Deloitte Technology Job Simulation**, I enjoy transforming ideas into functional, clean, and scalable code.
 
-- 🎓 **Education:** B.Tech (CSITCS) @ SIRT Bhopal (RGPV) — **CGPA: 7.4**
+- 🎓 **Education:** B.Tech (CSITCS) @ SIRT Bhopal (RGPV)
 - 💼 **Current Focus:** Seeking an entry-level Software Engineering role/internship to learn and grow.
-- 🧠 **LeetCode / DSA:** Proficient in Data Structures & Algorithms in **C/C++**.
+- 🧠 **LeetCode / DSA:** Active on LeetCode solving DSA problems in **C/C++**.
 - 🌐 **Location:** Bhopal, Madhya Pradesh, India.
 
 ---
@@ -70,9 +70,19 @@ I am a final-year **Computer Science (CSIT)** student at **SIRT Bhopal** with a 
 
 ---
 
+### 🏆 Competitive Programming & Coding Stats
+
+<p align="left">
+  <a href="https://leetcode.com/u/Raghvndra_yadav/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Raghvndra_yadav?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ### 📂 Featured Projects
 
-#### 🩺 [Swasth-AI | AIIMS-Inspired Health Management Platform](https://github.com/raghvendra-coder/swasth-ai)
+#### 🩺 [Swasth-AI | AIIMS-Inspired Health Management Platform](https://github.com/raghvendra-coder/Swasth-AI)
 > **MERN Stack, Google Gemini API, Tailwind CSS, JWT**
 *   Built a hospital-workflow-inspired health management application.
 *   Integrated JWT-based authentication for secure login.
