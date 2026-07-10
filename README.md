@@ -28,7 +28,7 @@ I am a final-year **Computer Science (CSIT)** student at **SIRT Bhopal** with a 
 <p align="left">
   <strong>Frontend:</strong><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs" alt="Frontend Skills" />
   </a>
 </p>
 
