@@ -14,7 +14,7 @@
 
 ### 💫 About Me
 
-I am a final-year **Computer Science (CSIT)** student at **SIRT Bhopal** with a passion for building full-stack web applications and solving complex algorithmic challenges. With hands-on experience through **3 internships** and a **Deloitte Technology Job Simulation**, I enjoy transforming ideas into functional, clean, and scalable code.
+I am a final-year **Computer Science (CSIT)** student at **SIRTE Bhopal** with a passion for building full-stack web applications and solving complex algorithmic challenges. With hands-on experience through **3 internships** and a **Deloitte Technology Job Simulation**, I enjoy transforming ideas into functional, clean, and scalable code.
 
 - 🎓 **Education:** B.Tech (CSITCS) @ SIRT Bhopal (RGPV)
 - 💼 **Current Focus:** Seeking an entry-level Software Engineering role/internship to learn and grow.
@@ -42,7 +42,7 @@ I am a final-year **Computer Science (CSIT)** student at **SIRT Bhopal** with a 
 <p align="left">
   <strong>Languages & Emerging Tech:</strong><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Languages" />
   </a>
   <img src="https://img.shields.io/badge/IoT-Emerging%20Tech-blue?style=for-the-badge&logo=arduino" alt="IoT" height="48" style="vertical-align: top; margin-left: 2px;" />
   <img src="https://img.shields.io/badge/Blockchain-Emerging%20Tech-black?style=for-the-badge&logo=ethereum" alt="Blockchain" height="48" style="vertical-align: top; margin-left: 2px;" />
